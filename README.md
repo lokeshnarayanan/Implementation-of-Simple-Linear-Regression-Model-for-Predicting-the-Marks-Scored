@@ -27,7 +27,7 @@ RegisterNumber:212222100023
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
-df=pd.read_csv('/content/ex1_os.csv')
+df=pd.read_csv('/content/ml CSV.csv')
 df.head(10)
 plt.scatter(df['x'],df['y'])
 plt.xlabel('x')
