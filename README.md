@@ -69,6 +69,8 @@ lr.intercept_
 ## 5.) Predicting the line of Regression:
 ![image](https://github.com/lokeshnarayanan/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119393019/3ca90e9a-17bc-4223-90fa-9ff325bd47af)
 
+## 6.) Coefficient and Intercept values:
+![image](https://github.com/lokeshnarayanan/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119393019/6ac34144-916f-4a62-b27d-f523059fbeb4)
 
 ## Result:
 Thus the program to implement the simple linear regression model for predicting the marks scored is written and verified using python programming.
